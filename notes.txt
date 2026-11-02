@@ -1,0 +1,1 @@
+nav is used to give navigation bar like home about in portfolio
